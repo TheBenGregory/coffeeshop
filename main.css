@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+.pageHeader {
+    /* display: flex; */
+    text-align: center;
+    border-width: 5px;
+    border-style: double;
+    border-color: cornsilk;
+   
+}
+
+.list{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    border: black;
+    border-width: 3px;
+    border-color: blue;
+    border-style: groove;
+    margin: auto;
+
+}
+
+.shop{
+    
+    border-style: solid;
+    border-width: 3px;
+    margin: 30px;
+    justify-content: flex-start;
+    flex-wrap: ;
+}
